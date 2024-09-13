@@ -1,0 +1,26 @@
+1.What is HTML?
+HTML is Defined as Hyper text mark up language. Html is used for the Creating webpages. it gives a structure to the webpage .
+
+2. What are HTML Tags?
+HTML tags are building blocks of an HTML docuent. the html tags define structure of the web page with help of the tags. the tags are define in the <>.
+this is the <> open tags format and </> closing tag. if we use a specific tag then we need to close the tag . the importantly the tags are write in the small letters only.
+ex:
+<head> </head>
+<h1>
+<p>  - pera graph
+<img> - image 
+
+3. write a web page code ?
+
+<!DOCTYPEhtml>
+<html>
+<head>
+<title> sample web page</title>
+
+</head>
+<body>
+   <header>
+     <h1> Welcome to the web page </h1>
+<p> Hello everyone</p>
+</body>
+</html>
